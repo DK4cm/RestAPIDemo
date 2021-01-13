@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using comp5527.Areas.HelpPage.ModelDescriptions;
+using RestAPIDemo.Areas.HelpPage.ModelDescriptions;
 
-namespace comp5527.Areas.HelpPage
+namespace RestAPIDemo.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

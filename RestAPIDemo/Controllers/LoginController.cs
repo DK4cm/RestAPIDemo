@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Web.Http;
 
-namespace comp5527.Controllers
+namespace RestAPIDemo.Controllers
 {
     public class LoginController : ApiController
     {

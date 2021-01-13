@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace comp5527.Controllers
+namespace RestAPIDemo.Controllers
 {
     public struct OrderDeatil
     {

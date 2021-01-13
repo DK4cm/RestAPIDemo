@@ -9,9 +9,9 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using comp5527.Models;
+using RestAPIDemo.Models;
 
-namespace comp5527.Providers
+namespace RestAPIDemo.Providers
 {
     public class ApplicationOAuthProvider : OAuthAuthorizationServerProvider
     {

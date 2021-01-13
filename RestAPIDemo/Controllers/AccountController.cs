@@ -1,6 +1,6 @@
-﻿using comp5527.Models;
-using comp5527.Providers;
-using comp5527.Results;
+﻿using RestAPIDemo.Models;
+using RestAPIDemo.Providers;
+using RestAPIDemo.Results;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Http;
 
-namespace comp5527.Controllers
+namespace RestAPIDemo.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]

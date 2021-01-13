@@ -7,7 +7,7 @@ using System.Web.Http;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace comp5527.Controllers
+namespace RestAPIDemo.Controllers
 {
     public class OrderController : ApiController
     {

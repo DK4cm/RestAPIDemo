@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 
-namespace comp5527.Models
+namespace RestAPIDemo.Models
 {
     // Models used as parameters to AccountController actions.
 

@@ -6,7 +6,7 @@ using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
 
-namespace comp5527
+namespace RestAPIDemo
 {
     public static class WebApiConfig
     {

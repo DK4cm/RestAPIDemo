@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace comp5527.Models
+namespace RestAPIDemo.Models
 {
     // Models returned by AccountController actions.
 

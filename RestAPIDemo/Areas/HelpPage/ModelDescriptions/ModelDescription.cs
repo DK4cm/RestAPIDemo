@@ -1,6 +1,6 @@
 using System;
 
-namespace comp5527.Areas.HelpPage.ModelDescriptions
+namespace RestAPIDemo.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

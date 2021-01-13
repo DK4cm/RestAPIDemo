@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(comp5527.Startup))]
+[assembly: OwinStartup(typeof(RestAPIDemo.Startup))]
 
-namespace comp5527
+namespace RestAPIDemo
 {
     public partial class Startup
     {

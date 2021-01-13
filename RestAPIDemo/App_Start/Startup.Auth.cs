@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using comp5527.Providers;
-using comp5527.Models;
+using RestAPIDemo.Providers;
+using RestAPIDemo.Models;
 
-namespace comp5527
+namespace RestAPIDemo
 {
     public partial class Startup
     {

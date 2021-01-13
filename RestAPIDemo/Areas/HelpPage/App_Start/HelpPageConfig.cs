@@ -16,7 +16,7 @@ using System.Web.Http;
 using System.Web.Http.OData;
 #endif
 
-namespace comp5527.Areas.HelpPage
+namespace RestAPIDemo.Areas.HelpPage
 {
     /// <summary>
     /// Use this class to customize the Help Page.

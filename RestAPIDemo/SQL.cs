@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
 
-namespace comp5527
+namespace RestAPIDemo
 {
     public class SQL
     {

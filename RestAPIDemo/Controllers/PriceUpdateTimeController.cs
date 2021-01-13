@@ -7,7 +7,7 @@ using System.Web.Http;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace comp5527.Controllers
+namespace RestAPIDemo.Controllers
 {
     public class PriceUpdateTimeController : ApiController
     {
